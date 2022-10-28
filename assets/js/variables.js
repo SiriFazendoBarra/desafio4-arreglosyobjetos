@@ -5,6 +5,7 @@ const spanTitle = document.getElementById('spanTitle')
 const btnBuscar = document.getElementById('btnBuscar')
 const btnReiniciar = document.getElementById('btnReiniciar')
 const divPropiedades = document.getElementById('divPropiedades')
+const checkOmas = document.getElementById('checkOmas')
 
 let cantidad
 let min
